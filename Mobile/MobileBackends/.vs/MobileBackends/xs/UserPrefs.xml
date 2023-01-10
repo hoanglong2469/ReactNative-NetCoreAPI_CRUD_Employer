@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1B7C7381-2296-4607-AD37-72AAA7D937A3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MobileBackends PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileBackends/Models/QlnvContext.cs">
+    <Files>
+      <File FileName="MobileBackends/Models/QlnvContext.cs" Line="14" Column="1" />
+      <File FileName="MobileBackends/Program.cs" Line="8" Column="1" />
+      <File FileName="MobileBackends/Migrations/20230105100031_initial.cs" Line="6" Column="8" />
+      <File FileName="MobileBackends/Migrations/QlnvContextModelSnapshot.cs" Line="6" Column="8" />
+      <File FileName="MobileBackends/appsettings.json" Line="17" Column="5" />
+      <File FileName="MobileBackends/Properties/launchSettings.json" Line="16" Column="26" />
+      <File FileName="MobileBackends/Models/NhanVien.cs" Line="16" Column="16" />
+      <File FileName="MobileBackends/Controllers/NhanVienController.cs" Line="77" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobileBackends" expanded="True">
+            <Node name="MobileBackends" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="QlnvContext.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
